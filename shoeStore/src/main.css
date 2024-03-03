@@ -1,0 +1,18 @@
+body{
+  background-color: black;
+  height: 200vh;
+}
+
+.card{
+  background-color: white;
+  border-radius: 5px;
+  width: 50%;
+  margin: 5%;
+}
+
+.showCard{
+  width: 70%;
+  position: fixed;
+  margin: 10% 15%;
+  text-align: center;
+}
